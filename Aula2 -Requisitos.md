@@ -1,6 +1,9 @@
 # 💻 UC1 — Projeto de Software
 ## 📚 Aula 2 — Projeto de Software e Levantamento de Requisitos
 
+### Link da aula: https://canva.link/qgs05wourg6hjzq
+### Documento de Requisitos:  https://drive.google.com/file/d/1jTMY3tbU5wedZglhkg943vMD-ZgBLv7B/view?usp=drive_link
+
 Nesta aula, começamos a entender uma etapa fundamental no desenvolvimento de sistemas:
 
 > 💡 **Antes de começar a programar, precisamos entender o problema e planejar a solução.**
