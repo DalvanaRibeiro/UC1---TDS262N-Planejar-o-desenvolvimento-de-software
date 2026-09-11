@@ -1,5 +1,5 @@
-# 💻 UC1 — Projeto de Software
-## 📚 Aula 2 — Projeto de Software e Levantamento de Requisitos
+# 📝 UC1 — Projeto de Software
+## 🚀 Aula 2 — Projeto de Software e Levantamento de Requisitos
 
 ### Link da aula: https://canva.link/qgs05wourg6hjzq
 ### Documento de Requisitos:  https://drive.google.com/file/d/1jTMY3tbU5wedZglhkg943vMD-ZgBLv7B/view?usp=drive_link
