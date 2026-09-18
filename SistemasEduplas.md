@@ -67,3 +67,13 @@ Aqui estão os sistemas desenvolvidos pelas equipes, colocando em prática conhe
 ---
 
 
+## 🎬 6. Sistema de Votação Online
+
+> Plataforma digital para votações.
+
+### 👨‍💻 Desenvolvedores
+- **Eduardo**
+-  **Yuhan**
+-   **Samanta**
+
+
